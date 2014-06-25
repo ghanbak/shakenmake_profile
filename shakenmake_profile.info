@@ -55,7 +55,6 @@ dependencies[] = menu_block
 dependencies[] = metatags_quick
 dependencies[] = module_filter
 dependencies[] = nodeformsettings
-dependencies[] = node_clone
 dependencies[] = page_title
 dependencies[] = pathauto
 dependencies[] = publish_button
